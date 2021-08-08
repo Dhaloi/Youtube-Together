@@ -1,9 +1,9 @@
 ## Setting up the bot
 
-Just place your token like that:
+Create a **.env** file then add your token to **TOKEN=**
 
 ```js
 TOKEN=ultra-duper-secret-token
 ```
 
-then get your invite from console and you are good to go!
+and get your invite from console and you are good to go!
