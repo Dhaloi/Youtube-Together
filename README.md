@@ -1,2 +1,9 @@
-# Youtube-Together
-Youtube together is a Discord bot that created by XcaliberRuler#0002 and its open-source
+## Setting up the bot
+
+Just place your token like that:
+
+```js
+TOKEN=ultra-duper-secret-token
+```
+
+then get your invite from console and you are good to go!
